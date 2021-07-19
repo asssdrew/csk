@@ -1,0 +1,113 @@
+.page-tittle{
+    text-align: center;
+    font-weight: 100;
+}
+
+h1{
+    color:aliceblue; 
+    background-color:lightgray;
+    text-align: center;
+    border: 2px  black;
+}
+
+nav a{
+    color: darkseagreen;
+    text-decoration:none;
+}
+
+a{
+    color: whitesmoke;
+}
+
+ h2{
+    color: yellow; 
+    background-color: #b3b300;
+    font-family: cursive;
+    text-align: center;
+    border: 1.5px solid black;
+    padding: 5px;
+        }
+
+    body{
+        background-image:url(background.webp)
+;           background-repeat: no-repeat; background-size:cover
+        }
+
+.mspic{
+    float: left;
+}
+    
+    
+
+.MSD{
+    float: right;
+    width:400px; 
+    background-image: url(chennaiipl_20210307_13.png); background-position:top;
+    color: #e6b800;font-family:cursive;
+        border:1px dotted #000;
+        text-align: center;
+            padding:10px 20px;
+    background-color: aquamarine;
+    margin:0px 10px;
+    border-radius: 5px;
+        }
+
+    p2{
+        background-blend-mode: color-burn;
+        font-size: 1.5em;
+        backface-visibility:visible;
+    font-family: cursive;
+     letter-spacing: .5px;
+        text-align-last:left;
+        font-family: fantasy;
+        }
+
+h3{
+    color: yellow;
+    border-color: black;
+    font-size: 2em;
+    font-family: fantasy;
+   
+
+
+}
+
+.contact-btn a{
+    margin-right: 30px;
+    padding: 8px 18px;
+    border: 1px solid white;
+    float: right;
+    font-size: 1.5em;
+    color:darkorange;
+}
+
+.nav{
+    color: greenyellow;
+    font-family:fantasy;
+    font-style: italic
+}
+
+ul{
+    background-color:azure;
+    margin-right: 50em;
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
+
+p{
+    color: yellowgreen;
+    text-align: left;
+    font-family: monospace;
+    text-align: right;
+
+}
+
+#copy{
+    float: right;
+    font-family:sans-serif;
+    margin: 5px 7px;
+    text-align: center;
+    color: whitesmoke;
+    text-decoration:;
+}
